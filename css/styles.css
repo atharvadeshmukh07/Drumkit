@@ -47,7 +47,7 @@ footer {
 .set {
   display: flex;
   justify-content: center;
-  margin-top: 20px; /* Add some spacing between the title and the buttons */
+  margin-top: 20px;
 }
 
 .game-over {
