@@ -86,12 +86,12 @@ footer {
 
 @media (max-width: 600px) {
   .set {
-    flex-direction: column; /* Change the direction to vertical on smaller screens */
-    align-items: center; /* Center the buttons horizontally */
+    flex-direction: column;
+    align-items: center;
   }
 
   .drum {
-    margin: 10px 0; /* Add more spacing between the buttons on smaller screens */
+    margin: 10px 0;
   }
 
   h1 {
